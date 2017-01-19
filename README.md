@@ -8,7 +8,7 @@ A polyfills package with the goal of standardizing polyfill implementations acro
 ## Usage
 
 ```sh
-npm install @squarespace/polyfills;
+npm install --save @squarespace/polyfills;
 ```
 
 ```js
