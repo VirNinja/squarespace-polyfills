@@ -1,6 +1,7 @@
 /**
  * Polyfill for CustomEvent
  *
+ * For the public domain version of this code, see:
  * https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent/CustomEvent
  * Added: https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent/CustomEvent$revision/716095
  */

@@ -1,8 +1,9 @@
 /**
  * Polyfill for Element.prototype.closest, modified to remove matches portion
- * and require from matches.js
+ * and require from matches.js.
  *
- * https://github.com/jonathantneal/closest
+ * This code originated from a repository licensed under CC0. For the public
+ * domain version, see: https://github.com/jonathantneal/closest
  */
 
 require('./matches.js');

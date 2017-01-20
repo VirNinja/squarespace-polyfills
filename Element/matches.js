@@ -1,6 +1,7 @@
 /**
  * Polyfill for Element.prototype.matches
  *
+ * For the public domain version of this code, see:
  * https://developer.mozilla.org/en-US/docs/Web/API/Element/matches
  * Added: https://developer.mozilla.org/en-US/docs/Web/API/Element/matches$revision/678245
  */
