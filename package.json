@@ -1,6 +1,6 @@
 {
   "name": "@squarespace/polyfills",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Squarespace, Inc.",
   "description": "Polyfill library for Squarespace templates",
   "license": "SEE LICENSE IN LICENSE.txt",
